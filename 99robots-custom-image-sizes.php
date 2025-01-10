@@ -4,9 +4,9 @@
  * Plugin URI: https://wordpress.org/plugins/custom-image-sizes-by-draftpress/
  * Description: Custom Image Sizes by DraftPress is a quick
  * and simple way for you to add your own image sizes to your WordPress site.
- * Version: 1.2.10
+ * Version: 1.2.11
  * Requires at least: 4.5
- * Tested up to: 6.3.2
+ * Tested up to: 6.7.1
  * Requires PHP: 5.6
  * Author: DraftPress
  * Author URI: https://draftpress.com/
@@ -47,7 +47,7 @@ class NNR_Custom_Image_Sizes {
 	 *
 	 * @var string
 	 */
-	public $version = '1.2.10';
+	public $version = '1.2.11';
 
 	/**
 	 * The single instance of the class.
