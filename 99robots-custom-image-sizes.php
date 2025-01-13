@@ -13,7 +13,6 @@
  * License: GPL2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain: 99robots-custom-image-sizes
- * Domain Path: /languages
  * Php Version 7.2.10
  *
  * @category Plugin

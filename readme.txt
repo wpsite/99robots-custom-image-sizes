@@ -1,4 +1,4 @@
-=== Custom Image Sizes by 99 Robots ===
+=== Custom Image Sizes by DraftPress ===
 Contributors: DraftPress, 99robots, charliepatel
 Donate link:
 Tags: image sizes, images, image, size, sizes, custom sizes, custom image, custom images
